@@ -1,0 +1,34 @@
+{
+  "stores": {
+    "StoreA": {
+      "milk": { "minPrice": 260, "maxPrice": 400, "alertThreshold": 280 },
+      "bread": { "minPrice": 85, "maxPrice": 150, "alertThreshold": 100 },
+      "butter": { "minPrice": 600, "maxPrice": 950, "alertThreshold": 700 },
+      "cheese": { "minPrice": 950, "maxPrice": 1400, "alertThreshold": 1000 }
+    },
+    "StoreB": {
+      "milk": { "minPrice": 240, "maxPrice": 420, "alertThreshold": 270 },
+      "water": { "minPrice": 55, "maxPrice": 110, "alertThreshold": 65 },
+      "eggs": { "minPrice": 310, "maxPrice": 480, "alertThreshold": 340 },
+      "bread": { "minPrice": 90, "maxPrice": 160, "alertThreshold": 105 }
+    },
+    "StoreC": {
+      "eggs": { "minPrice": 300, "maxPrice": 500, "alertThreshold": 350 },
+      "cheese": { "minPrice": 1000, "maxPrice": 1600, "alertThreshold": 1100 },
+      "yogurt": { "minPrice": 150, "maxPrice": 300, "alertThreshold": 180 },
+      "juice": { "minPrice": 200, "maxPrice": 450, "alertThreshold": 220 }
+    },
+    "StoreD": {
+      "chocolate": { "minPrice": 300, "maxPrice": 700, "alertThreshold": 350 },
+      "coffee": { "minPrice": 1000, "maxPrice": 2000, "alertThreshold": 1200 },
+      "tea": { "minPrice": 400, "maxPrice": 900, "alertThreshold": 450 },
+      "sugar": { "minPrice": 200, "maxPrice": 500, "alertThreshold": 250 }
+    },
+    "StoreE": {
+      "meat": { "minPrice": 2000, "maxPrice": 3500, "alertThreshold": 2200 },
+      "fish": { "minPrice": 1500, "maxPrice": 2800, "alertThreshold": 1800 },
+      "rice": { "minPrice": 300, "maxPrice": 700, "alertThreshold": 400 },
+      "pasta": { "minPrice": 250, "maxPrice": 600, "alertThreshold": 300 }
+    }
+  }
+}

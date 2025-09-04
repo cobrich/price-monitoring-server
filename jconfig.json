@@ -1,6 +1,0 @@
-{
-  "products": ["milk", "bread", "eggs"],
-  "minPrice": 50,
-  "maxPrice": 500,
-  "alertThreshold": 100
-}
